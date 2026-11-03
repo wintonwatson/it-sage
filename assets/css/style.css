@@ -1,0 +1,12 @@
+.Old-Greece-Capital-1-hex { color: #204473; }
+.Old-Greece-Capital-2-hex { color: #6093BF; }
+.Old-Greece-Capital-3-hex { color: #89B3D9; }
+.Old-Greece-Capital-4-hex { color: #F2E0BD; }
+.Old-Greece-Capital-5-hex { color: #594031; }
+
+
+body {
+    background-color:  #F2E0BD;
+    font-family: "Noto Serif", serif;
+    font-size: 21px;
+}
