@@ -1,0 +1,42 @@
+/* ---------------Box Sizing----------------- */
+html {
+  box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+body{ 
+  font-family: "Rubik", sans-serif;
+  background-color:#101240;
+}
+main{
+  background-color:#fff;
+  width:80vw;
+  margin: 40px auto;
+  border: 3px solid #0a96a6;
+  border-radius:4px;
+}
+
+header.primary{
+background-color: #8fbdd9;
+background-image: url("https://assets.codepen.io/7248/bg_1.png");  
+padding:20px;  
+}
+
+header.primary h1{
+  margin:0;
+}
+
+header.primary h2{
+  color:#fff;
+  text-shadow:1px 1px #000;
+  margin:0;
+}
+
+header.primary h1 a{
+  color:#ffffff;
+  text-decoration:none;
+  text-shadow:1px 1px #000;
+}
